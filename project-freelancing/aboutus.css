@@ -1,0 +1,103 @@
+/* header and footer */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+  }
+li{
+    
+    list-style: none;
+    padding-left: 10px;
+    font-size: 19.2px;
+    padding-right: 20px;
+    
+  }
+  
+  a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  ul{
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+  }
+.foot-main{
+    background-color: #242626;
+    padding: 70px 0;
+    justify-content:left ;
+    padding-left: 120px;
+
+    }
+
+header{
+    height: 250px;
+     background-color:#0f1941;
+     width: 100%;
+}
+.top-nav{
+    font-size:1.2rem ;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #fff;
+  
+  }
+  .bottom-nav{
+    font-size:1.2rem;
+    margin-top: 5px;
+  }
+  .nav{
+    height: 50px;
+    width: 100%;
+    justify-content:left ;
+    align-items: center;
+    margin: 0px;
+    padding-top: 10px;
+    padding-left: 120px;
+  
+  }
+  /* sub menu */
+  .top-nav2 {
+    margin-left: 120px;
+    padding-top: 10px;
+  }
+
+.ravi{
+  height: 150px;
+ background-color: rgba(224, 147, 5, 0.829);
+ width: 100%;
+}
+/* Global  */
+.Global{
+  background-color: aqua;
+ 
+}
+/* location */
+.location{
+  background-color: antiquewhite;
+}
+.side{
+  display: flex;
+  flex-direction: row;
+}
+.btn{
+  height: 50px;
+  background-color: #fff;
+  border-radius: 10px;
+  color: #242626;
+}
+/* cards */
+.container{
+  display: flex;
+  flex-direction: row;
+  padding-left: 40px;
+  border-radius: 10px;
+
+}
+.Gopi{
+  background-color: rgb(64, 64, 237);
+  color: white;
+  height: 400px;
+  width: 100%;
+}
+
